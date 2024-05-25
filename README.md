@@ -1,4 +1,4 @@
-| [Home](https://ambrishpathak.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/Certification.html) |  [Resume](https://drive.google.com/file/d/1VUHLBe9zdro6d3hPK4NtHljHCJAkY2yI/view) | [Get in Touch](https://ambrishpathak.github.io/contact.html) |
+| [Home](https://shrutirawat.github.io/)        | [Projects](https://ambrishpathak.github.io/)          | [Certification](https://ambrishpathak.github.io/Certification.html) |  [Resume](https://drive.google.com/file/d/1VUHLBe9zdro6d3hPK4NtHljHCJAkY2yI/view) | [Get in Touch](https://ambrishpathak.github.io/contact.html) |
 
 
 
