@@ -2,7 +2,7 @@
 
 
 
-## M.S. Data Science Student at Stevens
+## M.S. Data Science Student at PACE University
 
 #### Technical Skills: Python, SQL, AWS, Bash, Tableau, Power BI
 
